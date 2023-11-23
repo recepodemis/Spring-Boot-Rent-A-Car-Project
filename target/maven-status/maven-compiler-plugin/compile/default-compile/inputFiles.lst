@@ -1,0 +1,6 @@
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/webApi/controlers/BrandsController.java
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/RentACarApplication.java
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/dataAccess/abstracts/BrandRepository.java
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/business/concretes/BrandManager.java
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/entities/concretes/Brand.java
+/Users/recepodemis/Desktop/campspring/rentACar/src/main/java/kodlama/io/rentACar/business/abstracts/BrandService.java
